@@ -1,10 +1,9 @@
-Certainly! Below is a sample `README.md` file that you can include in your GitHub repository for a project containing Jupyter notebooks of statistical analysis on the ABCD data for the 251 paper.
-
+This is not the final version.
 ---
 
 # Statistical Analysis of ABCD Data for the 251 Paper
 
-This repository contains Jupyter notebooks that perform statistical analysis on the ABCD dataset for the paper titled "251". The analysis includes an exploratory examination of the data, including demographic information, followed by machine learning modeling using Random Forest algorithms.
+This repository contains Jupyter notebooks that perform statistical analysis on the ABCD dataset for the 251 paper. The analysis includes an exploratory examination of the data, including demographic information, followed by machine learning modeling using Random Forest algorithms.
 
 ## Table of Contents
 
@@ -22,7 +21,7 @@ This repository contains Jupyter notebooks that perform statistical analysis on 
 To get a local copy of the notebooks, clone this repository:
 
 ```bash
-git clone https://github.com/YourUsername/Statistical-Analysis-ABCD-251.git
+git clone https://github.com/joshbenjamin3/251.git
 ```
 
 ## Prerequisites
@@ -33,13 +32,13 @@ git clone https://github.com/YourUsername/Statistical-Analysis-ABCD-251.git
 - Numpy
 - Scikit-learn
 - Matplotlib
-- Seaborn
+- Shap
 
 ## Installation
 
 1. Clone the repo.
     ```bash
-    git clone https://github.com/YourUsername/Statistical-Analysis-ABCD-251.git
+    git clone https://github.com/joshbenjamin3/251.git
     ```
 2. Install required packages.
     ```bash
@@ -58,7 +57,7 @@ git clone https://github.com/YourUsername/Statistical-Analysis-ABCD-251.git
 
 - `Exploratory Analysis and Demographic Information.ipynb`: This Jupyter notebook contains preliminary data exploration and an analysis of demographic information.
 
-- `Random Forest Models and Analysis.ipynb`: This Jupyter notebook contains Random Forest models that predict various outcomes and perform an in-depth analysis of the results.
+- `Random Forest Models and Analysis.ipynb`: This Jupyter notebook contains Random Forest models and perform an in-depth analysis of the results.
 
 ## Usage
 
@@ -82,14 +81,11 @@ To run the notebooks:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+No license at the moment
 
 ## Acknowledgments
 
-- ABCD dataset providers
-- The authors of the paper "251"
-- Anybody who contributed to the development and review of these notebooks
+- NIH for ABCD
+- Maha, Franckie, Matt, Steve, etc.
 
 ---
-
-That should provide a good outline for your README.md file. Feel free to modify it according to your specific project details!
